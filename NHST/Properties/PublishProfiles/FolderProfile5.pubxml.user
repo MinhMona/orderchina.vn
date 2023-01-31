@@ -1,0 +1,1904 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>E:\Publish\taobao.vn</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App.Master">
+      <publishTime>08/14/2020 10:03:47</publishTime>
+    </File>
+    <File Include="ApplicationInsights.config">
+      <publishTime>08/14/2020 10:03:47</publishTime>
+    </File>
+    <File Include="App_Themes/AdminNew45/assets/images/logo/logo-icon.png">
+      <publishTime>08/13/2021 10:10:32</publishTime>
+    </File>
+    <File Include="App_Themes/UserNew45/assets/images/logo/logo-icon.png">
+      <publishTime>08/13/2021 10:25:23</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/css/normalize.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/css/style.css">
+      <publishTime>08/26/2021 10:12:30</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/css/style1.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/font.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Black.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Black.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Black.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Black.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Black.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BlackItalic.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BlackItalic.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BlackItalic.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BlackItalic.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BlackItalic.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Bold.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Bold.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Bold.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Bold.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Bold.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BoldItalic.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BoldItalic.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BoldItalic.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BoldItalic.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-BoldItalic.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Italic.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Italic.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Italic.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Italic.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Italic.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Light.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Light.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Light.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Light.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Light.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-LightItalic.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-LightItalic.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-LightItalic.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-LightItalic.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-LightItalic.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Medium.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Medium.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Medium.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Medium.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Medium.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-MediumItalic.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-MediumItalic.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-MediumItalic.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-MediumItalic.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-MediumItalic.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Regular.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Regular.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Regular.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Regular.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Regular.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Thin.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Thin.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Thin.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Thin.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-Thin.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-ThinItalic.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-ThinItalic.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-ThinItalic.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-ThinItalic.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/fonts/Roboto/Roboto-ThinItalic.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/banner.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/benefits-bg.png">
+      <publishTime>08/10/2021 16:05:16</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/benefits-icon-1.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/benefits-icon-2.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/benefits-icon-3.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/bt.jpg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/chrome.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/coccoc.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/desc.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/favicon/favicon.ico">
+      <publishTime>08/30/2021 13:21:43</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/favicon/status-header-bg.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/footer-bg.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/icon-1.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/icon-2.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/icon-3.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/icon-4.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/icon-5.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/icon-6.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/icon-7.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/icon-8.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/imac.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/location.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/logo-icon-2.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/logo-icon.png">
+      <publishTime>08/13/2021 10:06:50</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/logo.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/mess.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/payment-info-icon.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/phone.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/place-img-2.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/place-img-3.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/place-img-4.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/place-img.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/play.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/qr.jpg">
+      <publishTime>08/09/2021 17:53:26</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/search-select.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/select.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/services-bg.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/services-icon-1.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/services-icon-2.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/services-icon-3.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/services-icon-4.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/services-icon-5.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/services-icon-6.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/services-tab-bg.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/social-1.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/social-2.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/social-3.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/social-4.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/status-header-bg.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/step-icon-1.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/step-icon-2.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/step-icon-3.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/step-icon-4.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/step-icon-5.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/step-icon-6.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/tech.jpg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/tool-bg.png">
+      <publishTime>08/26/2021 10:25:18</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/wechat.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/images/zalo.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Font-awesome-4.7.0/css/font-awesome.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Font-awesome-4.7.0/css/font-awesome.min.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Font-awesome-4.7.0/fonts/fontawesome-webfont.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Font-awesome-4.7.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Font-awesome-4.7.0/fonts/fontawesome-webfont.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Font-awesome-4.7.0/fonts/fontawesome-webfont.woff2">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Font-awesome-4.7.0/fonts/FontAwesome.otf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/jquery-1.12.4.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/css/lg-fb-comment-box.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/css/lg-fb-comment-box.min.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/css/lg-transitions.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/css/lg-transitions.min.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/css/lightgallery.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/css/lightgallery.min.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/fonts/lg.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/fonts/lg.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/fonts/lg.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/fonts/lg.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/img/loading.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/img/video-play.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/img/vimeo-play.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/img/youtube-play.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/js/lightgallery-all.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/js/lightgallery-all.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/js/lightgallery.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/dist/js/lightgallery.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/lib/jquery.mousewheel.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/lib/lg.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/lib/picturefill.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-autoplay.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-autoplay.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-fullscreen.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-fullscreen.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-hash.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-hash.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-pager.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-pager.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-share.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-share.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-thumbnail.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-thumbnail.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-video.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-video.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-zoom.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/modules/lg-zoom.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/css/lg-fb-comment-box.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/css/lg-fb-comment-box.css.map">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/css/lg-transitions.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/css/lg-transitions.css.map">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/css/lightgallery.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/css/lightgallery.css.map">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/fonts/lg.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/fonts/lg.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/fonts/lg.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/fonts/lg.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/img/loading.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/img/video-play.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/img/vimeo-play.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/img/youtube-play.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/js/.jshintrc">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/js/lightgallery.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-animations.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-autoplay.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-core.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-fb-comment-box.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-fonts.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-fullscreen.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-mixins.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-pager.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-share.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-theme-default.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-thumbnail.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-transitions.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-variables.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-video.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lg-zoom.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/lightgallery.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/src/sass/prepros.cfg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/test/.jshintrc">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/test/lightgallery.html">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/lightGallery-master/test/lightgallery_test.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Magnific-Popup-master/jquery.magnific-popup.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/Magnific-Popup-master/magnific-popup.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/main.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/css/msdropdown/dd.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/css/msdropdown/flags.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/css/msdropdown/skin2.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/css/msdropdown/sprite.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/1273404841_tick_16.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/Amex-56.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/blank.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/browser-chrome.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/browser-firefox.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/browser-msie.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/browser-opera.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/browser-safari.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/button-large.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/Cash-56.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/demoaction.jpg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/Discover-56.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/enabled.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/flagssprite_small.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/giftlelo_dot_com.jpg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon-search.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_calendar.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_cart.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_cd.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_email.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_faq.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_games.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_lockopen.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_music.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_phone.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_sales.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_secure.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/icon_video.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/jquery-msdropdown.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/Mastercard-56.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/msDropDown.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/Paypal-56.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/preview.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/sprite.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/sprite.jpg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/tick.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/icons/Visa-56.png">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/skin1/dd_arrow.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/skin1/title-bg.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/skin2/dd_arrow.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/skin2/icon-ok.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/images/msdropdown/skin2/title-bg.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/js/jquery/jquery-1.9.0.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/js/jquery/tester.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/js/msdropdown/jquery.dd.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/ms-Dropdown-master/js/msdropdown/jquery.dd.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/readmore.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/ajax-loader.gif">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/config.rb">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/fonts/slick.eot">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/fonts/slick.svg">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/fonts/slick.ttf">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/fonts/slick.woff">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/slick-theme.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/slick-theme.less">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/slick-theme.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/slick.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/slick.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/slick.less">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/slick.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/slick-1.8.1/slick.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/WOW-master/animate.css">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/js/WOW-master/wow.min.js">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/scss/style.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/scss/_components.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/scss/_variables.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="App_Themes/VietTrung/scss/_woocommerce.scss">
+      <publishTime>08/05/2021 17:16:12</publishTime>
+    </File>
+    <File Include="bang-gia.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="bang-tich-luy-diem.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="bang-tich-luy-diem1.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="bin/Antlr3.Runtime.dll">
+      <publishTime>08/14/2020 10:03:35</publishTime>
+    </File>
+    <File Include="bin/ApplicationInsights.config">
+      <publishTime>08/14/2020 10:03:47</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.bootstrap.dll">
+      <publishTime>08/14/2020 10:03:35</publishTime>
+    </File>
+    <File Include="bin/AspNet.ScriptManager.jQuery.dll">
+      <publishTime>08/14/2020 10:03:35</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>08/14/2020 10:04:03</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>08/14/2020 10:04:03</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>08/14/2020 10:03:36</publishTime>
+    </File>
+    <File Include="bin/LeoUtils.dll">
+      <publishTime>08/14/2020 10:03:36</publishTime>
+    </File>
+    <File Include="bin/MB.Extensions.dll">
+      <publishTime>08/14/2020 10:03:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
+      <publishTime>08/14/2020 10:04:06</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.DependencyCollector.dll">
+      <publishTime>08/14/2020 10:04:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
+      <publishTime>08/14/2020 10:04:07</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
+      <publishTime>08/14/2020 10:04:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.Web.dll">
+      <publishTime>08/14/2020 10:04:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AI.WindowsServer.dll">
+      <publishTime>08/14/2020 10:04:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationBlocks.Data.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ApplicationInsights.dll">
+      <publishTime>08/14/2020 10:04:05</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.FriendlyUrls.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Core.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.EntityFramework.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Identity.Owin.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Client.dll">
+      <publishTime>08/14/2020 10:04:09</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.Core.dll">
+      <publishTime>08/14/2020 10:04:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.SignalR.SystemWeb.dll">
+      <publishTime>08/14/2020 10:04:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.AspNet.Web.Optimization.WebForms.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/14/2020 10:04:11</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>08/14/2020 10:04:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>08/14/2020 10:04:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Cookies.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>08/14/2020 10:04:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Facebook.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Google.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.MicrosoftAccount.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.OAuth.dll">
+      <publishTime>08/14/2020 10:03:37</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.Twitter.dll">
+      <publishTime>08/14/2020 10:03:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.MSAjax.dll">
+      <publishTime>08/14/2020 10:03:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ScriptManager.WebForms.dll">
+      <publishTime>08/14/2020 10:03:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>08/14/2020 10:04:14</publishTime>
+    </File>
+    <File Include="bin/NetOceanSDKLib.dll">
+      <publishTime>08/14/2020 10:03:38</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>08/14/2020 10:04:16</publishTime>
+    </File>
+    <File Include="bin/NHST.dll">
+      <publishTime>09/24/2021 11:09:45</publishTime>
+    </File>
+    <File Include="bin/NHST.pdb">
+      <publishTime>09/24/2021 11:09:45</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>08/14/2020 10:04:17</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/14/2020 10:04:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/14/2020 10:04:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/14/2020 10:04:12</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/14/2020 10:04:13</publishTime>
+    </File>
+    <File Include="bin/Supremes.dll">
+      <publishTime>08/14/2020 10:03:38</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>08/14/2020 10:04:10</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>08/14/2020 10:04:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>08/14/2020 10:04:11</publishTime>
+    </File>
+    <File Include="bin/System.Web.Optimization.dll">
+      <publishTime>08/14/2020 10:03:38</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.dll">
+      <publishTime>07/28/2020 14:05:38</publishTime>
+    </File>
+    <File Include="bin/Telerik.Web.UI.Skins.dll">
+      <publishTime>07/28/2020 14:05:38</publishTime>
+    </File>
+    <File Include="bin/TopSdk.dll">
+      <publishTime>08/14/2020 10:03:39</publishTime>
+    </File>
+    <File Include="bin/WebGrease.dll">
+      <publishTime>08/14/2020 10:03:39</publishTime>
+    </File>
+    <File Include="Bundle.config">
+      <publishTime>08/14/2020 10:03:47</publishTime>
+    </File>
+    <File Include="Cart.aspx">
+      <publishTime>08/14/2020 10:03:47</publishTime>
+    </File>
+    <File Include="Cart1.aspx">
+      <publishTime>08/14/2020 10:03:47</publishTime>
+    </File>
+    <File Include="Cart2.aspx">
+      <publishTime>08/05/2021 17:41:29</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang-app.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang-khac-app.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang-van-chuyen-ho-app.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang-van-chuyen-ho.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="chi-tiet-don-hang.aspx">
+      <publishTime>08/14/2020 10:03:40</publishTime>
+    </File>
+    <File Include="chi-tiet-thanh-toan-ho.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="chi-tiet-trang.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="chinh-sach.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="ClientMaster.Master">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="ClientMasterLogined.Master">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="ClientMasterNew.Master">
+      <publishTime>08/05/2021 17:41:29</publishTime>
+    </File>
+    <File Include="cong-cu-dat-hang.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="cong-cu.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="dang-ky.aspx">
+      <publishTime>08/27/2021 13:18:40</publishTime>
+    </File>
+    <File Include="dang-nhap.aspx">
+      <publishTime>08/14/2020 10:03:46</publishTime>
+    </File>
+    <File Include="dang-xuat.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="danh-muc-trang.aspx">
+      <publishTime>08/14/2020 09:57:51</publishTime>
+    </File>
+    <File Include="danh-sach-don-hang-khac-app.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="danh-sach-don-hang.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="danh-sach-don-van-chuyen-ho.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="danh-sach-kien-ky-gui-app.aspx">
+      <publishTime>08/14/2020 10:03:52</publishTime>
+    </File>
+    <File Include="danh-sach-kien-yeu-cau-ky-gui.aspx">
+      <publishTime>08/14/2020 10:00:26</publishTime>
+    </File>
+    <File Include="danh-sach-san-pham.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="danh-sach-thanh-toan-ho.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="dashboard.aspx">
+      <publishTime>08/14/2020 10:03:40</publishTime>
+    </File>
+    <File Include="dat-hang-ngoai-he-thong-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="dat-hang-thanh-cong.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="DatHangTrungQuoc.Master">
+      <publishTime>08/16/2021 14:19:11</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>08/26/2021 10:26:47</publishTime>
+    </File>
+    <File Include="Default1.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="Default2.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="Default3.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="demon.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="diem-tich-luy-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="don-hang-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="favicon.ico">
+      <publishTime>08/30/2021 13:21:19</publishTime>
+    </File>
+    <File Include="FilesResources/ToolContent.xml">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="FilesResources/ToolsBasic.xml">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="gio-hang-thanh-toan-ho.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="gioi-thieu.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="gui-yeu-cau-thanh-toan-ho.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="HandlerCS.ashx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="ho-tro.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="home-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="home.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="huong-dan.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="Including/uMenuSidebar.ascx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>08/05/2021 17:41:29</publishTime>
+    </File>
+    <File Include="khieu-nai-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="khieu-nai.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="kich-hoat-tai-khoan.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="lich-su-giao-dich-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="lich-su-giao-dich-tien-te-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="lich-su-giao-dich-tien-te.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="lich-su-nap-tien.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="Lien-he.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="Logout.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="manager/accountant-outstock-payment.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/accountant-payment.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/Accountant-User-List.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/add-another-order.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/add-transportation-new.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/add-transportation.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/add-wallet-user.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/add-withdraw.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/AddLinkMarquee.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/AddMenu.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/AddPage.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/AddPageType.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/AddParentMenu.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/AddRefund.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/AddRequestRechargeCYN.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/admin-noti.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/admin-staff-income.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/adminMaster.Master">
+      <publishTime>08/05/2021 17:41:29</publishTime>
+    </File>
+    <File Include="manager/adminMasterNew.Master">
+      <publishTime>08/05/2021 17:41:29</publishTime>
+    </File>
+    <File Include="manager/BankList.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/BigPackageDetail.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/Check-package.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/chi-tiet-phien-xuat-kho-vch.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/Chi-tiet-thanh-toan-ho.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/chi-tiet-vch.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/ComplainList.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/Configuration.aspx">
+      <publishTime>08/10/2021 11:38:56</publishTime>
+    </File>
+    <File Include="manager/danh-sach-phien-xuat-kho-ky-gui.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/danh-sach-ptvc-tai-viet-nam.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/danh-sach-thanh-toan-ho.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/danh-sach-vch.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/danh-sach-yeu-cau-giao-hang.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/Edit-Paget-Type.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/EditMenu.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/EditPage.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/FeecheckproductList.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/FeePackagedDetail.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/generatefeeweight.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/History-Pay-Order.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/HistorySendWallet.aspx">
+      <publishTime>08/13/2021 10:29:55</publishTime>
+    </File>
+    <File Include="manager/HistorySendWalletAccountant.aspx">
+      <publishTime>08/05/2021 17:41:29</publishTime>
+    </File>
+    <File Include="manager/Home-Config.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/home.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/kien-that-lac.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/kien-troi-noi.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/login.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/MenuList.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/Noti-app-list.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/Order-Transaction-Code.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/OrderDetail.aspx">
+      <publishTime>02/18/2021 16:36:41</publishTime>
+    </File>
+    <File Include="manager/OrderList.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/outstock-finish-vch.aspx">
+      <publishTime>08/05/2021 17:41:29</publishTime>
+    </File>
+    <File Include="manager/outstock-finish.aspx">
+      <publishTime>08/05/2021 17:41:29</publishTime>
+    </File>
+    <File Include="manager/outstock-vch-user.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/outstock-vch.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/OutStock.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/Package-Detail.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/Page-Type-List.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/PageList.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/Pay-Order.aspx">
+      <publishTime>08/14/2020 09:57:54</publishTime>
+    </File>
+    <File Include="manager/PriceChangeInfo.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/PriceChangeList.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/PrintStamp.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/ProductEdit.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/push-noti-app-user.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/push-noti-app.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/RechargeCYN.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/refund-cyn.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/refundDetail.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/report-buypro.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/report-compare.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/Report-Income.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/report-loinhuan-thanhtoanho.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/Report-order.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/Report-Orders.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/Report-recharge.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/Report-Transport.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/Report-User-Use-Wallet.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/Report-user-wallet.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/report-vch.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/Report_General.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/request-outstock-vch.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/request-ship-list.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/RequestRechargeCYN.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/RequestShipDetail.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/sale-userlist.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/Saler-AddUser.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/ServiceList.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/shippingtypelist.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/SmallPackage-Detail.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/SocialSupportList.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/staff-income.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/stafflist.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/tao-don-hang-khac.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/Tariff-Buypro.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/tariff-feeBuyPro-detail.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/Tariff-TQVN-Detail.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/Tariff-TQVN.aspx">
+      <publishTime>08/27/2021 13:23:52</publishTime>
+    </File>
+    <File Include="manager/thiet-lap-thong-bao.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/TQWareHouse-DHH.aspx">
+      <publishTime>08/14/2020 09:57:55</publishTime>
+    </File>
+    <File Include="manager/TQWareHouse.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/trade-history.aspx">
+      <publishTime>08/14/2020 09:57:57</publishTime>
+    </File>
+    <File Include="manager/transportation-list.aspx">
+      <publishTime>08/14/2020 09:57:58</publishTime>
+    </File>
+    <File Include="manager/transportationdetail.aspx">
+      <publishTime>08/14/2020 09:57:58</publishTime>
+    </File>
+    <File Include="manager/User-Level.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/user-order.aspx">
+      <publishTime>08/14/2020 09:57:58</publishTime>
+    </File>
+    <File Include="manager/User-Transaction.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/UserInfo.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/UserLeverInfo.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/UserList.aspx">
+      <publishTime>10/29/2020 11:46:48</publishTime>
+    </File>
+    <File Include="manager/UserWallet.aspx">
+      <publishTime>08/13/2021 10:29:52</publishTime>
+    </File>
+    <File Include="manager/view-outstock-session.aspx">
+      <publishTime>08/14/2020 09:57:58</publishTime>
+    </File>
+    <File Include="manager/VNWarehouse-DHH.aspx">
+      <publishTime>08/14/2020 09:57:53</publishTime>
+    </File>
+    <File Include="manager/VNWarehouse.aspx">
+      <publishTime>08/14/2020 09:57:52</publishTime>
+    </File>
+    <File Include="manager/VolumeFee.aspx">
+      <publishTime>08/27/2021 13:23:22</publishTime>
+    </File>
+    <File Include="manager/Warehouse-from-list.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/Warehouse-Management.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/warehouse-to-list.aspx">
+      <publishTime>08/14/2020 09:57:58</publishTime>
+    </File>
+    <File Include="manager/WebChinaList.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/WeightPriceInfo.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/WeigtPricehList.aspx">
+      <publishTime>08/14/2020 09:57:56</publishTime>
+    </File>
+    <File Include="manager/Withdraw-List.aspx">
+      <publishTime>08/05/2021 17:41:30</publishTime>
+    </File>
+    <File Include="manager/withdrawdetail.aspx">
+      <publishTime>08/14/2020 09:57:58</publishTime>
+    </File>
+    <File Include="manager/yeu-cau-giao.aspx">
+      <publishTime>08/14/2020 09:57:58</publishTime>
+    </File>
+    <File Include="mat-khau-moi.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="Models/NHSTEntities.edmx.diagram">
+      <publishTime>08/14/2020 10:03:30</publishTime>
+    </File>
+    <File Include="Models/phonecode.json">
+      <publishTime>08/14/2020 10:03:30</publishTime>
+    </File>
+    <File Include="nap-tien-app.aspx">
+      <publishTime>08/14/2020 10:33:27</publishTime>
+    </File>
+    <File Include="nap-tien-chuyen-khoan-theo-tai-khoan.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="nap-tien-chuyen-khoan-tu-dong.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="nap-tien-te.aspx">
+      <publishTime>08/14/2020 10:03:40</publishTime>
+    </File>
+    <File Include="nap-tien.aspx">
+      <publishTime>09/06/2021 10:05:44</publishTime>
+    </File>
+    <File Include="NHSTExchangeRate.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="NO-IMAGE.jpg">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="noi-dung.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="OrderTemp.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="OTP.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="printPhieu.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="PUSHDEMO.aspx">
+      <publishTime>08/14/2020 10:03:48</publishTime>
+    </File>
+    <File Include="PushNotiAuto.aspx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="quan-ly-van-chuyen.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="quen-mat-khau.aspx">
+      <publishTime>08/14/2020 10:03:47</publishTime>
+    </File>
+    <File Include="requestOrder.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="robots.txt">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="rut-tien-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="rut-tien-te-app.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="rut-tien.aspx">
+      <publishTime>08/14/2020 10:03:53</publishTime>
+    </File>
+    <File Include="rut-tien1.aspx">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/ai.0.22.9-build00167.min.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/bootstrap.min.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.min.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.10.2.min.map">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.6.4.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/jquery-1.6.4.min.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/jquery.signalR-2.2.3.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/jquery.signalR-2.2.3.min.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/modernizr-2.6.2.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/respond.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/respond.min.js">
+      <publishTime>08/14/2020 10:03:55</publishTime>
+    </File>
+    <File Include="scripts/WebForms/DetailsView.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/Focus.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/GridView.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/Menu.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MenuStandards.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjax.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxApplicationServices.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxComponentModel.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxCore.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxGlobalization.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxHistory.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxNetwork.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxSerialization.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxTimer.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxWebForms.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/MSAjax/MicrosoftAjaxWebServices.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/SmartNav.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/TreeView.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/WebForms.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/WebParts.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="scripts/WebForms/WebUIValidation.js">
+      <publishTime>08/14/2020 10:03:54</publishTime>
+    </File>
+    <File Include="Site.Master">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="sitemap.xml">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="smallpackage-auto.aspx">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="tao-don-hang-khac.aspx">
+      <publishTime>08/14/2020 10:03:40</publishTime>
+    </File>
+    <File Include="tao-don-hang-van-chuyen-app.aspx">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="tao-don-hang-van-chuyen.aspx">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="tao-don-thanh-toan-ho-app.aspx">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="tao-don-thanh-toan-ho.aspx">
+      <publishTime>08/14/2020 10:03:40</publishTime>
+    </File>
+    <File Include="tao-ky-gui-hang.aspx">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="tao-ma-van-don-ky-gui-app.aspx">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="tao-ma-van-don-ky-gui.aspx">
+      <publishTime>08/14/2020 10:00:26</publishTime>
+    </File>
+    <File Include="thanh-toan-ho-app.aspx">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="thanh-toan-ho.aspx">
+      <publishTime>08/14/2020 10:03:56</publishTime>
+    </File>
+    <File Include="Thanh-toan.aspx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="them-khieu-nai-app.aspx">
+      <publishTime>08/05/2021 13:13:42</publishTime>
+    </File>
+    <File Include="them-khieu-nai.aspx">
+      <publishTime>08/14/2020 10:03:57</publishTime>
+    </File>
+    <File Include="theo-doi-mvd.aspx">
+      <publishTime>08/14/2020 10:03:57</publishTime>
+    </File>
+    <File Include="thong-bao-cua-ban.aspx">
+      <publishTime>08/14/2020 10:03:57</publishTime>
+    </File>
+    <File Include="thong-ke-cuoc-ky-gui-app.aspx">
+      <publishTime>08/14/2020 10:03:47</publishTime>
+    </File>
+    <File Include="thong-ke-cuoc-ky-gui.aspx">
+      <publishTime>08/14/2020 10:03:57</publishTime>
+    </File>
+    <File Include="thong-tin-nguoi-dung.aspx">
+      <publishTime>08/14/2020 10:03:57</publishTime>
+    </File>
+    <File Include="Tracking-app.aspx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="tracking-mvd.aspx">
+      <publishTime>08/14/2020 10:03:57</publishTime>
+    </File>
+    <File Include="trang-chu.aspx">
+      <publishTime>08/14/2020 10:03:57</publishTime>
+    </File>
+    <File Include="UC/uc_Banner.ascx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="UC/uc_Sidebar.ascx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="Uploads/Images/WebService1.asmx">
+      <publishTime>08/14/2020 10:03:42</publishTime>
+    </File>
+    <File Include="UserInfo.aspx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="UserMasterNew.Master">
+      <publishTime>08/05/2021 17:41:30</publishTime>
+    </File>
+    <File Include="van-chuyen-ho-app.aspx">
+      <publishTime>08/14/2020 10:03:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>08/27/2021 13:24:59</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="WebForm2.aspx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>08/14/2020 10:03:49</publishTime>
+    </File>
+    <File Include="Website-under-contructing.aspx">
+      <publishTime>08/14/2020 10:03:50</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
